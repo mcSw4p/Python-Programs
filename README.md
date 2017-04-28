@@ -1,4 +1,4 @@
-# Activity Board
+# Python Programs
 
 This repository has the Python programs I made while learning the language. 
 
